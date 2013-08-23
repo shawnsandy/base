@@ -1,0 +1,9 @@
+<h1 class="headlines">Recently</h1>
+{% for page in pages %}
+<!-- Note we check for Date field (posts) here -->
+<aside>
+    <h1 class=""><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <p class="">{{ page.excerpt }}</p>
+    <p>Status: {{ page.type }}</p>
+</aside>
+{% endfor %}
