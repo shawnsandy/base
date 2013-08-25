@@ -1,0 +1,3 @@
+[submodule "sytle-guide"]
+	path = sytle-guide
+	url = https://github.com/bjankord/Style-Guide-Boilerplate.git
