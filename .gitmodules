@@ -1,7 +1,0 @@
-[submodule "style-guide"]
-	path = style-guide
-url=git@github.com:shawnsandy/Style-Guide-Boilerplate.git
-
-[submodule "assets/SyntaxHighlighter"]
-	path = assets/SyntaxHighlighter
-	url = https://github.com/alexgorbatchev/SyntaxHighlighter.git
