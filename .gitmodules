@@ -2,3 +2,6 @@
 	path = style-guide
 url=git@github.com:shawnsandy/Style-Guide-Boilerplate.git
 
+[submodule "asstes/SyntaxHighlighter"]
+	path = asstes/SyntaxHighlighter
+	url = https://github.com/alexgorbatchev/SyntaxHighlighter.git
