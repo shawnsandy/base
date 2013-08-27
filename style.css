@@ -5,3 +5,9 @@ SECTION {
 .sg-source {
 	margin: 20px;
 }
+.btn:hover, .btn:focus {
+	display: block;
+}
+pre {
+	background-color: #E7E7E7;
+}
