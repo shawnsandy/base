@@ -26,3 +26,9 @@ footer .bio figure {
 footer .bio p {
 	font-size: 16px;
 }
+#sidebar aside {
+	padding-bottom: 20px;
+}
+.side-box {
+	margin-bottom: 20px;	
+}
