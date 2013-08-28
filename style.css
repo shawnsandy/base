@@ -2,33 +2,3 @@ SECTION {
 	padding-top: 60px;
 	padding-bottom: 60px;
 }
-.sg-source {
-	margin: 20px;
-}
-.btn:hover, .btn:focus {
-	display: block;
-}
-pre {
-	background-color: #E7E7E7;
-}
-
-footer .bio {
-	margin-bottom: 60px;
-}
-
-footer .bio figure {
-	padding: 0px;
-	margin-right: 20px;
-	margin-bottom: 0px;
-
-}
-
-footer .bio p {
-	font-size: 16px;
-}
-#sidebar aside {
-	padding-bottom: 20px;
-}
-.side-box {
-	margin-bottom: 20px;	
-}
